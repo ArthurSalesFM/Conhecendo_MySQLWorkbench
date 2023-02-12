@@ -1,10 +1,10 @@
 # Mini Projeto MySQL Workbench
-Projeto simples com o intuito de conhecer a linguagem e a ferramenta MySQL Workbench
+Projeto simples com o intuito de conhecer a linguagem e a ferramenta Workbench
 
 **Desenvolvido por** *Arthur Felipe MS*
 
-## Linguagens Utilizadas
-* *MySQL*
+## Linguagem Utilizada
+* *SQL*
 
 ### Desenvolvido na IDE
 * *MySQL Workbench*
