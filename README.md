@@ -1,5 +1,5 @@
 # Mini Projeto MySQL Workbench
-Projeto simples com o intuito de conhecer a linguagem e a ferramenta Workbench
+Conhecendo a linguagem SQL e a ferramenta Workbench
 
 **Desenvolvido por** *Arthur Felipe MS*
 
